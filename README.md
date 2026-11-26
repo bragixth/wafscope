@@ -1,5 +1,7 @@
 # wafscope
 
+[![tests](https://github.com/bragixth/wafscope/actions/workflows/ci.yml/badge.svg)](https://github.com/bragixth/wafscope/actions/workflows/ci.yml)
+
 Multi-signal WAF and web-firewall fingerprinting. wafscope combines passive evidence (headers,
 cookies, DNS/CNAME, IP ranges, TLS certificate), active probes compared against a control
 request, and optional DNS history, then reports a confidence score with the evidence behind it.
