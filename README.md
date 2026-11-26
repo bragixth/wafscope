@@ -60,7 +60,7 @@ Result  [DETECTED] WAF detected: Cloudflare (confidence high); active blocking o
 ## Install and run
 
 ```bash
-git clone https://github.com/<your-user>/wafscope.git
+git clone https://github.com/bragixth/wafscope.git
 cd wafscope
 python3 wafscope.py example.com
 ```
